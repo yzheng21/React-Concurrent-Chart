@@ -1,3 +1,6 @@
+## Screenshot image review
+![image](https://github.com/yzheng21/React-Concurrent-Chart/blob/master/img/final.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
